@@ -24,6 +24,6 @@ public class TimeMain extends JFrame {
     }
 
     public static void main(String[] arg) {
-        TimeMain tid = new TimeMain();
+        TimeMain timeMain = new TimeMain();
     }
 }

@@ -4,7 +4,7 @@ import java.beans.PropertyChangeListener;
 import java.io.Serializable;
 
 /**
- * Följt Java-boken, s. 462
+ * Model interface for property changes listener
  * */
 
 public interface Model extends Serializable {
